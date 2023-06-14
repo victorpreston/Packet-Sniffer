@@ -38,6 +38,9 @@ This project implements a network packet sniffer and a proxy server. The packet 
   ```
 
 5. Install the required dependencies.
+  ```
+  pip install -r requirements.txt
+  ```
 
 
 ## Usage
